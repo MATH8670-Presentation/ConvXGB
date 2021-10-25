@@ -1,2 +1,4 @@
 
 DATA/sensorless_data.csv
+CNN_models
+data_dct.pkl
