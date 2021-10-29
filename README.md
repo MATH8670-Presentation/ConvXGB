@@ -17,9 +17,13 @@ XGBoost model creation, training and experiment
 
 CNN+XGBoost model experiment
 
-### experiment_results
+### experiment_results.ipynb
 
 Contains plot of model accuracies
+
+### Retreive_Data.ipynb
+
+Contains code to grab and clean data
 
 ### Others
 
